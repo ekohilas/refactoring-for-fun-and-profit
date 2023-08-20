@@ -28,7 +28,19 @@ We'll look at easy to use tools and techniques that Python offers to make the pr
 And finally, we'll cover some design principles and methodologies for you to keep in mind, alongside understandable real world examples.
 
 #### Cheatsheet
-TODO
+1. Test (with integration tests)
+1. Format (with Black)
+1. Lint (with Ruff)
+1. Type hint (with MonkeyType)
+1. Refactor (with PyCharm)
+1. Abstract (with Functions and Classes)
+1. Seperate (with Single Responsibility Principle)
+1. Simplify (with KISS, DRY, and Pythonic Python)
+1. Stop (with Pragmatism and YAGNI) 
+1. Document (with structure, flow, and comments)
+1. Output (with `logging`)
+1. Profile (with Scalene)
+1. Think (with "There must be a better way")
 
 #### Slides
 TODO
