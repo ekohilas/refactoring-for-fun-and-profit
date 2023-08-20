@@ -1,4 +1,8 @@
-# Refactoring for Fun and Profit 
+# Refactoring for Fun and Profit
+
+A repo for resources of the talk.
+
+Resources on the project refactored can be found [here](https://github.com/ekohilas/train-conductor-world-tools)
 
 ## Evan Kohilas
 
