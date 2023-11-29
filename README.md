@@ -6,10 +6,10 @@ Resources on the project refactored can be found [here](https://github.com/ekohi
 
 ## Evan Kohilas
 
-| Conference | Video | Notes | Length |
-|------------|:-----:|:-----:|-------:|
-| [PyCon Australia 2023](https://2023.pycon.org.au/) | [🔗](https://www.youtube.com/watch?v=) | [🔗](https://2023.pycon.org.au/program/LCM73Z/) | 30 min |
-| [Kiwi PyCon 2023](https://kiwipycon.nz/) | [🔗](https://www.youtube.com/watch?v=) | [🔗](https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/) | 45 min |
+| Conference | Slides | Video | Notes | Length | Year |
+|------------|:------:|:-----:|:-----:|-------:|-----:|
+| [PyCon Australia](https://2023.pycon.org.au/) | [🔗](https://youtu.be/9wgJhT8HpiA?si=0n9U00R0Eh1PT_gS) | [🔗](https://2023.pycon.org.au/program/LCM73Z/) | 30 min | 2023 |
+| [Kiwi PyCon](https://kiwipycon.nz/) | [🔗](https://www.youtube.com/watch?v=) | [🔗](https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/) | 45 min | 2023 |
 
 #### Abstract
 Ever been in a situation where you've hastily written a bunch of code, just to make something "work"?
