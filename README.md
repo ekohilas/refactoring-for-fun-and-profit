@@ -9,7 +9,7 @@ Resources on the project refactored can be found [here](https://github.com/ekohi
 | Conference | Slides | Video | Notes | Length | Year |
 |------------|:------:|:-----:|:-----:|-------:|-----:|
 | [PyCon Australia](https://2023.pycon.org.au/) | [🔗](https://ekohilas.github.io/refactoring-for-fun-and-profit/pycon-au-2023) | [🔗](https://www.youtube.com/watch?v=9wgJhT8HpiA) | [🔗](https://2023.pycon.org.au/program/LCM73Z/) | 30 min | 2023 |
-| [Kiwi PyCon](https://kiwipycon.nz/) | [🔗](https://ekohilas.github.io/refactoring-for-fun-and-profit/kiwi-pycon-2023) | [🔗](https://www.youtube.com/watch?v=) | [🔗](https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/) | 45 min | 2023 |
+| [Kiwi PyCon](https://kiwipycon.nz/) | [🔗](https://ekohilas.github.io/refactoring-for-fun-and-profit/kiwi-pycon-2023) | [🔗](https://www.youtube.com/watch?v=yiU-t2jldEk) | [🔗](https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/) | 45 min | 2023 |
 
 #### Abstract
 Ever been in a situation where you've hastily written a bunch of code, just to make something "work"?
