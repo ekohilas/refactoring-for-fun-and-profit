@@ -1,0 +1,56 @@
+/* Overides for dist/theme/white-contrast.css */
+
+@import url(../fonts/source-code-pro/source-code-pro.css);
+
+/* Don't stretch background images. */
+.slide-background-content {
+  background-size: contain !important;
+}
+
+/* Don't show line numbers in code block.s */
+.hljs-ln-numbers {
+  display: none;
+}
+
+:root {
+  /* TODO: Reason */
+  --r-block-margin: 0px;
+  /* Don't uppercase headings. */
+  --r-heading-text-transform: unset;
+  --r-code-font: Source Code Pro, monospace;
+  --r-code-font-size: 40px; 
+}
+
+/* I think the following causes images to be stretched. */
+.reveal .slides section,
+.reveal .slides section > section {
+  max-width: unset;
+  max-height: unset;
+}
+/* This too... */
+/* Ensure certain elements are never larger than the slide itself. */
+.reveal img,
+.reveal video,
+.reveal iframe {
+  object-fit: unset;
+}
+/* Ensures images expand to 80% of the slide height. */
+.reveal img {
+  max-height: 80vh;
+  height: 80vh;
+}
+
+.reveal pre {
+  /* Fixes the width to match other slide proportions. */
+  width: 88.75%;
+  /* Removes top and bottom margins. */
+  margin: auto;
+  /* Overwrites the font size. */
+  font-size: var(--r-code-font-size);
+}
+
+.reveal pre code {
+  /* TODO: Reason */
+  /* Gives code a border of 80px less than 80% of the view height. */
+  max-height: calc(80vh - 80px);
+}

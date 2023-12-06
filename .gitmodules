@@ -1,0 +1,3 @@
+[submodule "docs/kiwi-pycon-2023/reveal.js"]
+	path = docs/kiwi-pycon-2023/reveal.js
+	url = https://github.com/ekohilas/reveal.js

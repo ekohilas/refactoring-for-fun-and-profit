@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Refactoring for Fun and Profit</title>
+
+		<link rel="stylesheet" href="reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="reveal.js/dist/theme/white-contrast.css">
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="css/highlight/cupertino.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section 
+					data-markdown="slides.md"
+					data-separator="^---\s*\n"
+					data-separator-vertical="^------\s*\n"
+					data-separator-notes="\n\n"
+					data-charset="utf-8"
+				>
+				</section>
+			</div>
+		</div>
+
+		<script src="reveal.js/dist/reveal.js"></script>
+		<script src="reveal.js/plugin/notes/notes.js"></script>
+		<script src="reveal.js/plugin/highlight/highlight.js"></script>
+		
+		<script src="reveal.js-plugins/markdown/markdown.js"></script>
+
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+
+			Reveal.initialize({
+				width: 1920,
+				height: 1080,
+				hash: true,
+                transition: 'none',
+                backgroundTransition: 'none',
+                
+				// progress: false,
+				// controlsTutorial: false,
+				// controls: false,
+				// slideNumber: true,
+				// showSlideNumber: 'speaker',
+				progress: true,
+				controlsTutorial: true,
+				controls: true,
+				slideNumber: true,
+				showSlideNumber: 'all',
+				showNotes: true,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+
+		<link rel="stylesheet" href="css/reveal-override.css">
+
+	</body>
+</html>
