@@ -1,4 +1,4 @@
-# Refactoring for Fun and Profit
+# [Refactoring for Fun and Profit](https://ekohilas.github.io/refactoring-for-fun-and-profit)
 
 A repo for resources of the talk.
 
@@ -8,8 +8,8 @@ Resources on the project refactored can be found [here](https://github.com/ekohi
 
 | Conference | Slides | Video | Notes | Length | Year |
 |------------|:------:|:-----:|:-----:|-------:|-----:|
-| [PyCon Australia](https://2023.pycon.org.au/) | [🔗](https://youtu.be/9wgJhT8HpiA?si=0n9U00R0Eh1PT_gS) | [🔗](https://2023.pycon.org.au/program/LCM73Z/) | 30 min | 2023 |
-| [Kiwi PyCon](https://kiwipycon.nz/) | [🔗](https://www.youtube.com/watch?v=) | [🔗](https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/) | 45 min | 2023 |
+| [PyCon Australia](https://2023.pycon.org.au/) | [🔗](https://ekohilas.github.io/refactoring-for-fun-and-profit/pycon-au-2023) | [🔗](https://www.youtube.com/watch?v=9wgJhT8HpiA) | [🔗](https://2023.pycon.org.au/program/LCM73Z/) | 30 min | 2023 |
+| [Kiwi PyCon](https://kiwipycon.nz/) | [🔗](https://ekohilas.github.io/refactoring-for-fun-and-profit/kiwi-pycon-2023) | [🔗](https://www.youtube.com/watch?v=) | [🔗](https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/) | 45 min | 2023 |
 
 #### Abstract
 Ever been in a situation where you've hastily written a bunch of code, just to make something "work"?
@@ -45,6 +45,3 @@ And finally, we'll cover some design principles and methodologies for you to kee
 1. Output (with `logging`)
 1. Profile (with Scalene)
 1. Think (with "There must be a better way")
-
-#### Slides
-TODO
