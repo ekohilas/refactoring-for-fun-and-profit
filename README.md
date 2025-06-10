@@ -1,6 +1,6 @@
 # [Refactoring for Fun and Profit](https://ekohilas.github.io/refactoring-for-fun-and-profit)
 
-A repo for resources of the talk.
+A [repo](https://github.com/ekohilas/refactoring-for-fun-and-profit) for resources of the talk.
 
 Resources on the project refactored can be found [here](https://github.com/ekohilas/train-conductor-world-tools)
 
